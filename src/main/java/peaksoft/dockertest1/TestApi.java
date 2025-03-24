@@ -17,5 +17,4 @@ public class TestApi {
     public String bye(){
         return "Bye";
     }
-
 }
